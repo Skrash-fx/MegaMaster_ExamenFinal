@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MegaMaster_Domain/MegaMaster_Domain.csproj" />
+  <Project Path="MegaMaster_UI/MegaMaster_UI.csproj" />
+</Solution>
